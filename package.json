@@ -1,0 +1,15 @@
+{
+  "name": "fincon-service",
+  "version": "0.0.1",
+  "main": "api.js",
+  "repository": "https://github.com/money-manager/fincon-service.git",
+  "author": "money-manager",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon api.js --exec babel-node --watch"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
