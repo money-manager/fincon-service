@@ -1,0 +1,4 @@
+{
+    "db" : "./db/data.db",
+    "server_port" : 8000
+}
